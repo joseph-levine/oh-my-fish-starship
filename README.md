@@ -12,10 +12,21 @@
 
 ## Install
 
+Not yet, but one day...
 ```fish
 $ omf install starship
 ```
 
+For now, just clone this to ~/.local/share/omf/themes/starship then run
+
+```fish
+$ omf theme starship
+```
+
+If you've cloned with the existing name, make sure you run instead
+```fish
+$ omf theme oh-my-fish-starship
+```
 
 ## Features
 
@@ -25,18 +36,5 @@ $ omf install starship
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="https://starship.rs/demo.webm">
 </p>
-
-
-# License
-
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
-
-
-[mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-starship/graphs/contributors
-[omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
-[license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
