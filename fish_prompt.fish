@@ -1,3 +1,3 @@
 function fish_prompt
-  # Customize fish prompt
+  # none
 end
