@@ -36,5 +36,5 @@ $ omf theme oh-my-fish-starship
 ## Screenshot
 
 <p align="center">
-<img src="https://starship.rs/demo.webm">
+<img src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif">
 </p>
